@@ -1,0 +1,36 @@
+
+subject_fMRI_nii/
+test_code/
+*.img
+
+# =========================
+# fMRI / neuroimaging data
+# =========================
+*.nii
+*.nii.gz
+subject_fMRI_nii/
+THINGS_original_dataset/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# outputs
+# =========================
+*.npy
+*.pkl
+*.mat
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
