@@ -4,8 +4,9 @@ This project analyzes the relationship between fMRI responses and behavioral rat
 
 ## Data
 
-- fMRI data: subject_fMRI_nii/
+- fMRI data: subject_fMRI_nii/ (not included in repo)
 - Stimuli: THINGS dataset (not included in repo)
+- All of the data can be accessed in https://things-initiative.org/
 
 ## Subjects
 
