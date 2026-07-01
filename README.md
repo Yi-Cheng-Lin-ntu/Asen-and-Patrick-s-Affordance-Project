@@ -36,4 +36,6 @@ Our primary analysis notebook is split into a 3-Cell modular design to separate 
 - Cell 2: Automated RDM Extraction & Group AveragingLoops dynamically through each subject's directory, mapping condition CSVs to the nested fMRI BIDS structure.Extracts voxel activation patterns (Beta values) from all 12 sessions*10 runs (120 NIfTI files per subject).Averages the 12 trial repetitions per item to compress the data into clean 35 x 35 concept-level RDMs, minimizing trial-level visual noise.Performs a Group-Level average across all 3 subjects to eliminate individual physiological noise.
 
 - Cell 3: Cross-Region RSA valuates Representational Connectivity within the dorsal pathway and across pathways. Automatically computes correlations (Spearman & Pearson) and generates publication-ready scatter plots for:Cross-Stream Dissociation: Ventral (VVC) vs. Dorsal ROIs. Within-Stream Connectivity: Dorsal ROIs (AIP / IPL / vPM).
+<img width="540" height="305" alt="image" src="https://github.com/user-attachments/assets/31aaca93-c216-43f1-a6f5-f7da8499b834" />
+
 
