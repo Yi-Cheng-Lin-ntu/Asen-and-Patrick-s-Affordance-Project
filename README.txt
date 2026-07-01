@@ -29,7 +29,7 @@ Ensure you have the following standard Python data science and neuroimaging libr
 numpy, pandas, matplotlib, nibabel
 
 ## Modular Analysis Pipeline
-Our primary analysis notebook (.ipynb) is split into a 3-Cell modular design to separate heavy data I/O from statistical plotting, ensuring efficiency and easy replication.
+Our primary analysis notebook is split into a 3-Cell modular design to separate heavy data I/O from statistical plotting, ensuring efficiency and easy replication.
 
 - Cell 1: Environment & Atlas InitializationLoads standard neuroimaging packages.Sets up dynamic global paths for subjects (sub-01, sub-02, sub-03) and targets (35 selected tool concepts).Loads the pre-resampled Brainnetome Atlas to define Regions of Interest (ROIs): AIP, IPL, vPM (Dorsal) and VVC (Ventral control).
 
