@@ -1,4 +1,4 @@
-# fMRI RSA Project
+# Examining Affordance and Motor Related Representation on Dorsal Visual Pathway by Using THINGS
 
 This project analyzes the relationship between fMRI responses and behavioral ratings (grasp / hold) using Representational Similarity Analysis (RSA).
 
