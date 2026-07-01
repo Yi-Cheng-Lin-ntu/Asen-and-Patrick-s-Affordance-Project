@@ -1,4 +1,4 @@
-# fMRI RSA Project
+% fMRI RSA Project
 
 This project analyzes the relationship between fMRI responses and behavioral ratings (grasp / hold) using Representational Similarity Analysis (RSA).
 
