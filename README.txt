@@ -23,3 +23,8 @@ This project analyzes the relationship between fMRI responses and behavioral rat
 ## Notes
 
 Large datasets are excluded via .gitignore.
+
+## Required Prerequisites
+Ensure you have the following standard Python data science and neuroimaging libraries installed in your environment before running the notebook:
+numpy, pandas, matplotlib, nibabel
+
